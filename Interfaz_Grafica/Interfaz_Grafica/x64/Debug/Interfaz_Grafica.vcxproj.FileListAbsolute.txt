@@ -1,0 +1,4 @@
+C:\Users\Pcortez\source\repos\Interfaz_Grafica\Interfaz_Grafica\x64\Debug\Interfaz_Grafica.vcxproj.AssemblyReference.cache
+C:\Users\Pcortez\source\repos\Interfaz_Grafica\Interfaz_Grafica\x64\Debug\Interfaz_Grafica.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Pcortez\source\repos\Interfaz_Grafica\Interfaz_Grafica\x64\Debug\Interfaz_Grafica.Form1.resources
+C:\Users\Pcortez\source\repos\Interfaz_Grafica\Interfaz_Grafica\x64\Debug\Interfaz_Grafica.vcxproj.GenerateResource.cache
